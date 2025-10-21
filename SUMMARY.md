@@ -5,3 +5,5 @@
 * [Scaling Blockchain Throughput: Overcoming the Synchronization Bottleneck in High-TPS Systems](scaling-blockchain-throughput-overcoming-the-synchronization-bottleneck-in-high-tps-systems.md)
 * [Oracles for Trustworthy AI + Data Privacy with Blockchain: A Practical Architecture](oracles-for-trustworthy-ai-+-data-privacy-with-blockchain-a-practical-architecture.md)
 * [What Makes a Blockchain Truly Fast: A Technical Deep Dive](what-makes-a-blockchain-truly-fast-a-technical-deep-dive.md)
+* [x402\_gitbook\_guide](x402_gitbook_guide.md)
+* [x402\_gitbook\_guide (1)](x402_gitbook_guide-1.md)
