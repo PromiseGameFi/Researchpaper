@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Promise Emmanuel Oluwadare.](README.md)
+* [Promise Emmanuel Oluwadare](README.md)
 * [Securing AI-Driven Gaming with Federated Learning, NFT Ownership, and Oracles](<README (1).md>)
 * [Running Practical Worlds Onchain](running-practical-worlds-onchain.md)
 * [Scaling Blockchain Throughput: Overcoming the Synchronization Bottleneck in High-TPS Systems](scaling-blockchain-throughput-overcoming-the-synchronization-bottleneck-in-high-tps-systems.md)
