@@ -1,6 +1,6 @@
-# About Me
+# Promise Emmanuel Oluwadare.
 
-My name is Promise Emmanuel Oluwadare.
+
 
 ## &#x20;Career Journey
 
