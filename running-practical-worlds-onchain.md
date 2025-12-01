@@ -89,8 +89,7 @@ We will compute all intermediate values carefully and explicitly.
    * (Calculation: `64 / 156.25 = 0.4096`.)
 
 **Result 4.5:** Each sequencer machine needs ≈ **410 Mbps** sustained network capacity to carry its share of payload , modest compared to modern datacenter NICs (10–100 Gbps).\
-\
-
+<br>
 
 **4.6 Consensus & signature cost (high level)**
 

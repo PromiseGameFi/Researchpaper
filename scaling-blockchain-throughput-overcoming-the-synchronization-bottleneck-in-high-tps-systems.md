@@ -22,8 +22,7 @@ In a peer-to-peer blockchain, every node must **receive, validate, and relay tra
 * **Geographic Distance**: Nodes are distributed globally, bounded by the speed of light and Internet routing inefficiencies.
 * **Fork Probability**: If blocks propagate slowly, competing versions of the chain may arise, increasing reorg risk.
 
-**Model:**\
-
+**Model:**<br>
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -104,8 +103,7 @@ Sharded or modular blockchains scale horizontally, but cross-domain messaging be
 * **Consistency:** Asynchronous execution risks double-spending if messages are delayed.
 * **Overhead:** Each message requires proof-of-inclusion (Merkle/Verkle), adding verification costs.
 
-**Throughput Model:**\
-
+**Throughput Model:**<br>
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
