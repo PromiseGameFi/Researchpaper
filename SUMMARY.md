@@ -8,3 +8,4 @@
 * [What Makes a Blockchain Truly Fast: A Technical Deep Dive](what-makes-a-blockchain-truly-fast-a-technical-deep-dive.md)
 * [x402\_gitbook\_guide](x402_gitbook_guide.md)
 * [X402](x402.md)
+* [Privacy as Infrastructure: Trustless AI Systems](privacy-as-infrastructure-trustless-ai-systems.md)
