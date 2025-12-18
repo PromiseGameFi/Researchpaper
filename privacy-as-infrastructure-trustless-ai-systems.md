@@ -31,7 +31,9 @@ This solves privacy for the individual user. However, we must use the cloud to a
 
 ### 3. Layer 2: The Enterprise API and Zero Data Retention
 
-Businesses often need massive models like GPT-4 or Claude 3.5. These models are too big to run locally. Privacy in this layer relies on contracts called Zero Data Retention (ZDR).3.1 The Stateless ConversationProviders like OpenAI and Anthropic offer special business connections where they agree not to train their AI on customer data.
+Businesses often need massive models like GPT-4 or Claude 3.5. These models are too big to run locally. Privacy in this layer relies on contracts called Zero Data Retention (ZDR).&#x20;
+
+3.1 The Stateless ConversationProviders like OpenAI and Anthropic offer special business connections where they agree not to train their AI on customer data.
 
 * Azure OpenAI Service places the AI model inside a private network for the customer.
 * Zero Data Retention means the system deletes inputs and outputs immediately after processing.
