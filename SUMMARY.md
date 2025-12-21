@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Promise Emmanuel Oluwadare](README.md)
+* [The Physics and Science of AI: Mathematics of Interactive World Models](the-physics-and-science-of-ai-mathematics-of-interactive-world-models.md)
 * [Securing AI-Driven Gaming with Federated Learning, NFT Ownership, and Oracles](<README (1).md>)
 * [Running Practical Worlds Onchain](running-practical-worlds-onchain.md)
 * [Scaling Blockchain Throughput: Overcoming the Synchronization Bottleneck in High-TPS Systems](scaling-blockchain-throughput-overcoming-the-synchronization-bottleneck-in-high-tps-systems.md)
@@ -9,4 +10,3 @@
 * [x402\_gitbook\_guide](x402_gitbook_guide.md)
 * [X402](x402.md)
 * [Privacy as Infrastructure: Trustless AI Systems](privacy-as-infrastructure-trustless-ai-systems.md)
-* [The Physics and Science of AI: Mathematics of Interactive World Models](the-physics-and-science-of-ai-mathematics-of-interactive-world-models.md)
