@@ -1,8 +1,8 @@
-# The Physics and Science of AI: Mathematics of Interactive World Models
+# The Physics and Science of  Interactive World Models
 
 ## Abstract
 
-This research analyzes the mathematical principles of generative interactive environments, specifically Genie 3 and Hunyuan. Unlike traditional computer graphics that use explicit physics formulas, these models learn physical laws by observing video data. We describe the core components of these systems: spatio-temporal tokenization, latent action models, and autoregressive dynamics. The research explains how scaling these models leads to emergent physical properties like gravity and collision handling. We conclude that these systems represent a shift from logical simulation to statistical prediction of physical reality.
+This research analyzes the mathematical principles of generative interactive environments, specifically Genie 3 and Hunyuan. Unlike traditional computer graphics that use explicit physics formulas, these models learn physical laws by observing video data. We describe the core components of these systems: spatio-temporal tokenization, latent action models, and autoregressive dynamics. The research explains how scaling these models leads to emergent physical properties like gravity and collision handling. We conclude that these systems represent a shift from logical simulation to statistical prediction of physical&#x20;
 
 ***
 
