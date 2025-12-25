@@ -51,7 +51,7 @@ Gaussian Splatting is a breakthrough in rendering speed. It represents the world
 * Technical Edge: It uses rasterization math, which is the same logic used in high-speed video games.
 * Performance: It can render a scene at over 100 FPS on a standard GPU, providing instant visual feedback for 3D modellers.
 
-### 3.4 Replacing the Render Engine with a World Model
+### 3.4 Replacing the Render Engine with a [World Model](https://promiseresearch.web3ium.space/the-physics-and-science-of-interactive-world-models)
 
 The final stage of this research looks at World Models like Genie 3. These models do not "render" in the traditional sense; they "imagine" the environment based on learned data.
 
