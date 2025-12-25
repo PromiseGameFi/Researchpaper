@@ -10,4 +10,4 @@
 * [x402\_gitbook\_guide](x402_gitbook_guide.md)
 * [X402](x402.md)
 * [Privacy as Infrastructure: Trustless AI Systems](privacy-as-infrastructure-trustless-ai-systems.md)
-* [cv](cv.md)
+* [Solving the Render Bottleneck: The Science of Neural Image Synthesis](solving-the-render-bottleneck-the-science-of-neural-image-synthesis.md)
