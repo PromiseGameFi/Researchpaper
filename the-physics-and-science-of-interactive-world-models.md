@@ -113,7 +113,7 @@ The model takes a text prompt to start the first frame. It then enters a loop wh
 
 ## 6. Conclusion
 
-The science of AI-driven world models moves physics from the realm of logic to the realm of probability. Genie 3 and Hunyuan demonstrate that high-parameter Transformers can simulate complex environments that are playable and consistent. As these models scale, the need for traditional physics code will decrease. This allows for interactive digital realities generated entirely through mathematical inference.
+The science of AI-driven world models move physics from the realm of logic to the realm of probability. Genie 3 and Hunyuan demonstrate that high-parameter Transformers can simulate complex environments that are playable and consistent. As these models scale, the need for traditional physics code will decrease. This allows for interactive digital realities generated entirely through mathematical inference.
 
 ***
 
