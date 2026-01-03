@@ -44,7 +44,7 @@ This layer provides the cryptographic foundation for the protocol. Every agent i
 
 Standard protocols like HTTP are static; ANP is **Self-Evolving**. When two agents meet, they engage in a dynamic negotiation phase to determine the optimal interaction rules.
 
-* **Semantic Agreement**: Agents use natural language reasoning to decide on data formats (e.g., JSON-RPC, OpenAPI) and security parameters.
+* **Semantic Agreement**: Agents use natural language reasoning to decide on data formats (e.g., JSON-RPC) and security parameters.
 * **Extensibility**: As new AI models and data standards emerge, the Meta-Protocol layer ensures the network stays current without requiring a fork of the base protocol.
 {% endstep %}
 
@@ -53,7 +53,7 @@ Standard protocols like HTTP are static; ANP is **Self-Evolving**. When two agen
 
 This layer facilitates functional visibility via the **Agent Description Protocol (ADP)**.
 
-* **Capability Discovery**: Agents "advertise" their services (e.g., "flight booking," "code generation") in a machine-readable format using JSON-LD.
+* **Capability Discovery**: Agents advertise their services (e.g., "flight booking," "code generation") in a machine-readable format using JSON-LD.
 * **Standardized Discovery**: Utilizing `.well-known` web directories (RFC 8615), agents can be searched and indexed by other agents autonomously, creating a global "Yellow Pages" for AI.
 {% endstep %}
 {% endstepper %}
