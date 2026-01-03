@@ -11,3 +11,4 @@
 * [x402\_gitbook\_guide](x402_gitbook_guide.md)
 * [X402](x402.md)
 * [Privacy as Infrastructure: Trustless AI Systems](privacy-as-infrastructure-trustless-ai-systems.md)
+* [The Agent Network Protocol (ANP): A Decentralized Communication Substrate for Autonomous AI Agents](the-agent-network-protocol-anp-a-decentralized-communication-substrate-for-autonomous-ai-agents.md)
