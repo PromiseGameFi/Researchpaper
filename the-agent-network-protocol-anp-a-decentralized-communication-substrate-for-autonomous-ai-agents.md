@@ -10,9 +10,9 @@ The transition of Large Language Models (LLMs) from static reasoning engines to 
 
 ## 1. Introduction: The Emergence of the Agentic Web
 
-The foundational architecture of the modern internet was designed for human observation and manual interaction. As artificial intelligence evolves into autonomous agents—entities capable of independent decision-making and tool utilization—the limitations of this human-centric infrastructure become a primary bottleneck. We are witnessing the emergence of the "Agentic Web," a decentralized network where agents are the primary navigators and consumers of information.
+The foundational architecture of the modern internet was designed for human observation and manual interaction. As artificial intelligence evolves into autonomous agents, entities capable of independent decision-making and tool utilization. The limitations of this human-centric infrastructure become a primary bottleneck. We are witnessing the emergence of the "Agentic Web," a decentralized network where agents are the primary navigators and consumers of information.
 
-The Agent Network Protocol (ANP) serves as the "HTTP of the Agentic Web." It provides the standardized language required for disparate AI agents to discover, authenticate, and collaborate without centralized mediation. By moving away from "buttons and clicks" toward structured, data-to-data interactions, ANP establishes the infrastructure for a truly autonomous digital economy.
+The Agent Network Protocol (ANP) serves as the "HTTP of the Agentic Web." It provides the standardized language required for  AI agents to discover, authenticate, and collaborate without centralized mediation. By moving away from "buttons and clicks" toward structured, data-to-data interactions, ANP establishes the infrastructure for a truly autonomous digital economy.
 
 ## 2. The Problem: Structural Fragmentation and Information Entropy
 
