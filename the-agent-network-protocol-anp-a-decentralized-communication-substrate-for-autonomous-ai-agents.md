@@ -22,7 +22,7 @@ Traditional internet infrastructure creates **Digital Silos**, where agents are 
 * **Identity Fragmentation**: A lack of standard "passports" prevents agents from maintaining persistent identity or reputation across different services.
 * **High Integration Costs**: Developers must currently write custom, ad-hoc code to enable communication between different AI tools, hindering the scalability of multi-agent systems.
 
-ANP addresses these challenges by replacing simulation with native communication, reducing the "translation loss" between intelligence layers.
+
 
 ## 3. Technical Framework: A Three-Layer Architecture
 
