@@ -1,10 +1,8 @@
 # The Agent Network Protocol (ANP): A Decentralized Communication Substrate for Autonomous AI Agents
 
-## Abstract
+<figure><img src=".gitbook/assets/Gemini_Generated_Image_1gkf6a1gkf6a1gkf.png" alt=""><figcaption></figcaption></figure>
 
 The transition of Large Language Models (LLMs) from static reasoning engines to autonomous agents necessitates a robust, machine-native communication infrastructure. Current agentic interactions are hampered by "digital silos" and human-centric interfaces, leading to significant information entropy and collaboration overhead. This paper introduces the open source Agent Network Protocol (ANP), a three-layer modular blueprint designed to facilitate seamless peer-to-peer (P2P) interaction, decentralized identity (DID) management, and automated capability discovery. By establishing a universal "handshake" mechanism and machine-readable description standards, ANP transforms the internet into an AI-native ecosystem, enabling recursive intelligence and a trustless machine-to-machine economy.
-
-
 
 ***
 
@@ -80,11 +78,11 @@ The scalability of the Agentic Web depends on the ability of agents to exchange 
 
 ## 6. Conclusion: Recursive Intelligence and Future Outlook
 
-The Agent Network Protocol is more than a communication standard; it is the blueprint for a shared, interactive world model. By standardizing identity, negotiation, and discovery, ANP enables **Recursive Intelligence**—a state where agents don't just use tools, but collaborate to build and improve tools for one another. This transformation marks the shift from a human-centric internet to a global network of interconnected, autonomous intelligence.
+The Agent Network Protocol is more than a communication standard; it is the blueprint for a shared, interactive world model. By standardizing identity, negotiation, and discovery, ANP enables **Recursive Intelligence,** a state where agents don't just use tools, but collaborate to build and improve tools for one another. This transformation marks the shift from a human-centric internet to a global network of interconnected, autonomous intelligence.
 
 ## References
 
-* \[1] Decentralized Identifiers (DIDs) v1.0, W3C Recommendation.
-* \[2] RFC 8615: Well-Known Uniform Resource Identifiers (URIs).
-* \[3] Agent Network Protocol Specification, Draft 2025.
-* \[4] x402: A Standard for Machine-Native Micropayments.
+* \[1] [Decentralized Identifiers (DIDs) v1.0, W3C Recommendation.](https://www.w3.org/press-releases/2022/did-rec/)
+* \[2] [RFC 8615: Well-Known Uniform Resource Identifiers (URIs).](https://datatracker.ietf.org/doc/html/rfc8615)
+* \[3] [Agent Network Protocol Specification, Draft 2025.](https://agent-network-protocol.com/specs/white-paper.html)
+* \[4] [x402: A Standard for Machine-Native Micropayments.](https://www.x402.org/)
