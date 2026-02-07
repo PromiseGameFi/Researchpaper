@@ -1,3 +1,8 @@
+---
+title: Scaling Blockchain Throughput: Overcoming the Synchronization Bottleneck in High-TPS Systems
+description: Blockchain systems aim to maximize throughput while preserving decentralization and security. However, achieving transactions-per-second (TPS) at scale remains one of the most difficult engineering challenges. This paper explores the primary technical bottlenecks preventing blockchains from reaching millions of TPS, focusing on network propagation, consensus efficiency, state execution, data availability, and the trade-offs between scalability, security, and decentralization. We present a structured analysis of each bottleneck, drawing from existing research in distributed systems, peer-to-peer networking, and cryptographic consensus.
+---
+
 # Scaling Blockchain Throughput: Overcoming the Synchronization Bottleneck in High-TPS Systems
 
 ### Abstract
@@ -24,7 +29,7 @@ In a peer-to-peer blockchain, every node must **receive, validate, and relay tra
 
 **Model:**<br>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+![](.gitbook/assets/image (1).png)
 
 ### 3. Consensus Bottlenecks
 
@@ -43,7 +48,7 @@ Consensus mechanisms define how nodes agree on the order of transactions. High T
 **Formula for validator bottleneck:**\
 If V validators each produce a signature of size SSS, bandwidth per round =&#x20;
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+![](.gitbook/assets/image (2).png)
 
 Even with aggregation, verification at scale is non-trivial.
 
@@ -58,7 +63,7 @@ Each transaction updates the global blockchain state (balances, contracts, etc.)
 **Example:**\
 If each transaction adds 200 bytes to the state, and throughput = 1M TPS, then:
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+![](.gitbook/assets/image (3).png)
 
 This results in **\~17 TB/day** of state growth, clearly unsustainable without pruning, sharding, or compression.
 
@@ -75,7 +80,7 @@ High throughput chains must ensure that **data is available** to all validators 
 **Mathematical framing:**\
 Data availability guarantees often rely on **erasure coding** and **sampling**. For N nodes, each sampling kkk pieces of data, probability of detecting withholding is:
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+![](.gitbook/assets/image (4).png)
 
 ### 6. Security vs. Speed Trade-off
 
@@ -105,7 +110,7 @@ Sharded or modular blockchains scale horizontally, but cross-domain messaging be
 
 **Throughput Model:**<br>
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+![](.gitbook/assets/image (5).png)
 
 Thus, scalability is bounded by the fraction of cross-shard activity.
 

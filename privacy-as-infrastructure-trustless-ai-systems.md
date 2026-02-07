@@ -1,8 +1,13 @@
+---
+title: Privacy as Infrastructure: Trustless AI Systems
+description: Large Language Models (LLMs) have grown quickly and created a privacy gap. We need to balance using these tools with keeping control of our data. This report looks at new technologies that address this issue. We call this \"Privacy as Infrastructure.\" This means we use software and hardware to protect data automatically.
+---
+
 # Privacy as Infrastructure: Trustless AI Systems
 
 [<br>](https://x.com/PromiseGameFi/article/2001266197115851233/media/2001252106699702272)Large Language Models (LLMs) have grown quickly and created a privacy gap. We need to balance using these tools with keeping control of our data. This report looks at new technologies that address this issue. We call this "Privacy as Infrastructure." This means we use software and hardware to protect data automatically.
 
-<figure><img src=".gitbook/assets/1p.jpg" alt=""><figcaption></figcaption></figure>
+![](.gitbook/assets/1p.jpg)
 
 ### 1. Introduction: The Privacy Gap
 
@@ -25,7 +30,7 @@ The first layer of defense is keeping data local. If data stays on the device, t
 * Ollama allows developers to write code for private interactions.
 * LM Studio provides a simple visual interface for chatting with AI completely offline.
 
-<figure><img src=".gitbook/assets/2w.jpg" alt=""><figcaption></figcaption></figure>
+![](.gitbook/assets/2w.jpg)
 
 This solves privacy for the individual user. However, we must use the cloud to access larger, smarter AI models, and not everyone can run models locally.
 
@@ -42,7 +47,7 @@ This is useful for following laws like GDPR or HIPAA. However, it still requires
 
 ### 4. Layer 3: Confidential Computing
 
-<figure><img src=".gitbook/assets/3e.jpg" alt=""><figcaption></figcaption></figure>
+![](.gitbook/assets/3e.jpg)
 
 This layer protects data while the computer is actively using it.
 
@@ -68,7 +73,7 @@ The final challenge is training AI models on sensitive data without sharing the 
 
 A central system sends a basic model to many different users. Each user improves the model on their own device using their own data. They send only the improvements back to the central system. The central system never sees the raw data.
 
-<figure><img src=".gitbook/assets/4e.jpg" alt=""><figcaption></figcaption></figure>
+![](.gitbook/assets/4e.jpg)
 
 5.2 Differential PrivacyResearchers use Differential Privacy to ensure the model updates do not reveal secret information. This method adds mathematical noise to the data, allowing the system to learn general patterns without recording specific details about any single individual.
 

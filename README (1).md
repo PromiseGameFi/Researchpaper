@@ -1,3 +1,8 @@
+---
+title: Securing AI-Driven Gaming with Federated Learning, NFT Ownership, and Oracles
+description: This study proposes a robust architecture integrating Federated Learning (FL) to adapt AI models without centralizing player data, Blockchain for secure ownership and provenance of AI-generated assets, and Oracles to inject external real-world context into gaming. We formalize federated optimization, detail protocols for encrypted model exchanges, NFT-based asset ownership, and state-aware oracle integration. Drawing from implementations like Game-o-Meta (FL + homomorphic encryption), blockchain-based FL (committee consensus), NFTs for AI assets, and oracle-enabled data injection, we demonstrate feasibility and highlight key challenges.
+---
+
 # Securing AI-Driven Gaming with Federated Learning, NFT Ownership, and Oracles
 
 ###
@@ -22,7 +27,7 @@ Games are increasingly powered by AI that learns from player interactions. But c
 
 **2.1 Mathematical Formulation**
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+![](.gitbook/assets/image (8).png)
 
 **2.2 Convergence Bounds**
 
@@ -30,7 +35,7 @@ Advanced federated optimization works such as FedProx and newer meta-learning ap
 
 In decentralized FL settings, convergence depends on topology and variance among clients. Derived bounds like:
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+![](.gitbook/assets/image (9).png)
 
 show sensitivity to noise and variance terms [arXiv](https://arxiv.org/html/2503.11828).
 
