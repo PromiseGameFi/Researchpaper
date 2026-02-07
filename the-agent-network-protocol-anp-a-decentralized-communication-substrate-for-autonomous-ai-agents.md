@@ -1,3 +1,8 @@
+---
+title: "The Agent Network Protocol (ANP) - A Decentralized Communication Substrate for Autonomous AI Agents"
+description: "The transition of Large Language Models (LLMs) from static reasoning engines to autonomous agents necessitates a robust, machine-native communication infrastructure. Current agentic interactions are hampered by \"digital silos\" and human-centric interfaces, leading to significant information entropy and collaboration overhead. This paper introduces the open source Agent Network Protocol (ANP), a three-layer modular blueprint designed to facilitate seamless peer-to-peer (P2P) interaction, decentralized identity (DID) management, and automated capability discovery. By establishing a universal \"handshake\" mechanism and machine-readable description standards, ANP transforms the internet into an AI-native ecosystem, enabling recursive intelligence and a trustless machine-to-machine economy."
+---
+
 
 # The Agent Network Protocol (ANP): A Decentralized Communication Substrate for Autonomous AI Agents
 

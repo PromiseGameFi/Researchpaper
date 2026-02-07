@@ -1,3 +1,8 @@
+---
+title: "Running Practical Worlds Onchain"
+description: "A technical research paper on how blockchains can scale toward hundreds-of-millions of TPS, a numerical throughput model, and practical approaches for adding AI acceleration while preserving decentralization."
+---
+
 
 # Running Practical Worlds Onchain
 
