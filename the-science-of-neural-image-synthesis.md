@@ -4,6 +4,7 @@ description: "Traditional 3D rendering relies on path-tracing algorithms that ca
 ---
 
 
+
 # The Science of Neural Image Synthesis
 
 ## Abstract

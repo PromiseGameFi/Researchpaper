@@ -4,6 +4,7 @@ description: "Blockchain systems aim to maximize throughput while preserving dec
 ---
 
 
+
 # Scaling Blockchain Throughput: Overcoming the Synchronization Bottleneck in High-TPS Systems
 
 ### Abstract

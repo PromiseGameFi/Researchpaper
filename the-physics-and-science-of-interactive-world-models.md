@@ -4,6 +4,7 @@ description: "This research analyzes the mathematical principles of generative i
 ---
 
 
+
 # The Physics and Science of  Interactive World Models
 
 ## Abstract

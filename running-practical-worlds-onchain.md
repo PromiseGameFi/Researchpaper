@@ -4,6 +4,7 @@ description: "A technical research paper on how blockchains can scale toward hun
 ---
 
 
+
 # Running Practical Worlds Onchain
 
 ## Running Practical Worlds Onchain

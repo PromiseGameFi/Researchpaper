@@ -4,6 +4,7 @@ description: "Modern AI systems increasingly drive game logic, rewards, markets,
 ---
 
 
+
 # Oracles for Trustworthy AI + Data Privacy with Blockchain: A Practical Architecture
 
 ### 1) Problem Statement (What keeps breaking today?)
