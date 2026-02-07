@@ -1,7 +1,8 @@
 ---
 title: "Scaling Blockchain Throughput - Overcoming the Synchronization Bottleneck in High-TPS Systems"
-llm_description: "*."
+description: "*."
 ---
+
 
 
 

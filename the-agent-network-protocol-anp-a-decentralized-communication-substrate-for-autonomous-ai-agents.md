@@ -1,7 +1,8 @@
 ---
 title: "The Agent Network Protocol (ANP) - A Decentralized Communication Substrate for Autonomous AI Agents"
-llm_description: "*."
+description: "*."
 ---
+
 
 
 

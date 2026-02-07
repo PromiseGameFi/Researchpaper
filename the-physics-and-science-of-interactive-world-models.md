@@ -1,13 +1,17 @@
 ---
 title: "The Physics and Science of  Interactive World Models"
-llm_description: "*."
+description: "*."
 ---
 
 
 
 
 
+
 # The Physics and Science of  Interactive World Models
+
+*.
+
 
 ## Abstract
 

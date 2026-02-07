@@ -1,7 +1,8 @@
 ---
 title: "The Science of Neural Image Synthesis"
-llm_description: "The process of 3D rendering has historically been defined by the \"Render Bottleneck.\" In software like Blender, a high-quality frame requires the hardware to calculate thousands of light rays as they interact with materials and geometry. This linear calculation process is slow and limits the iteration speed of 3D modellers."
+description: "Neural Image Synthesis represents a fundamental shift in this science. Instead of calculating physics, these models predict visual outcomes based on learned patterns. Systems like Genie 3 operate by using an auto-regressive transformer architecture to \"imagine\" the next world state. This paper details how these AI approaches differ from traditional engines and how they can be leveraged to create a high-speed rendering solution for the 3D industry."
 ---
+
 
 
 

@@ -1,13 +1,17 @@
 ---
 title: "Privacy as Infrastructure - Trustless AI Systems"
-llm_description: "Large Language Models (LLMs) have grown quickly and created a privacy gap. We need to balance using these tools with keeping control of our data. This report looks at new technologies that address this issue. We call this \\\"Privacy as Infrastructure.\\\" This means we use software and hardware to protect data automatically."
+description: "Large Language Models (LLMs) have grown quickly and created a privacy gap. We need to balance using these tools with keeping control of our data. This report looks at new technologies that address this issue. We call this \\\\\\\"Privacy as Infrastructure.\\\\\\\" This means we use software and hardware to protect data automatically."
 ---
 
 
 
 
 
+
 # Privacy as Infrastructure: Trustless AI Systems
+
+Large Language Models (LLMs) have grown quickly and created a privacy gap. We need to balance using these tools with keeping control of our data. This report looks at new technologies that address this issue. We call this \\\"Privacy as Infrastructure.\\\" This means we use software and hardware to protect data automatically.
+
 
 [<br>](https://x.com/PromiseGameFi/article/2001266197115851233/media/2001252106699702272)
 
