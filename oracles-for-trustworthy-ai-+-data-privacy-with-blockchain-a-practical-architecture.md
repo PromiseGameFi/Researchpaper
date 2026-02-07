@@ -1,3 +1,8 @@
+---
+title: Oracles for Trustworthy AI + Data Privacy with Blockchain: A Practical Architecture
+description: Modern AI systems increasingly drive game logic, rewards, markets, and user experiences. But three chronic issues limit safe deployment:
+---
+
 # Oracles for Trustworthy AI + Data Privacy with Blockchain: A Practical Architecture
 
 ### 1) Problem Statement (What keeps breaking today?)
@@ -36,7 +41,7 @@ Blockchain by itself gives **immutability, ordering, provenance, and programmabl
 
 #### 3.1 Federated Learning (FL) as the default pipeline
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+![](.gitbook/assets/image (10).png)
 
 where clients k run local SGD steps before aggregation. This preserves privacy by design and dramatically reduces central data collection.
 
@@ -44,7 +49,7 @@ where clients k run local SGD steps before aggregation. This preserves privacy b
 
 Clip client updates and add calibrated noise:
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+![](.gitbook/assets/image (11).png)
 
 #### 3.3 Homomorphic Encryption (HE) / Secure Aggregation
 
