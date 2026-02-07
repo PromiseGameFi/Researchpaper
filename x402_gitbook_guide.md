@@ -5,6 +5,7 @@ description: "In Simple Terms - X402 is like a \"pay-per-use\" vending machine f
 
 
 
+
 # x402\_gitbook\_guide
 
 ## What is X402?

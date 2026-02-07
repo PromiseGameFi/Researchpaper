@@ -5,11 +5,12 @@ description: "Modern AI systems increasingly drive game logic, rewards, markets,
 
 
 
+
 # Oracles for Trustworthy AI + Data Privacy with Blockchain: A Practical Architecture
 
 ### 1) Problem Statement (What keeps breaking today?)
 
-Modern AI systems increasingly drive game logic, rewards, markets, and user experiences. But three chronic issues limit safe deployment:
+
 
 1. **Unverifiable inputs** → Models depend on web, API, or device signals that the chain/app cannot _cryptographically_ verify (prices, events, weather, anti-cheat signals, etc.). This creates a classic “oracle problem.”
 2. **Data privacy & ownership** → Centralized data pipelines leak sensitive user data and muddle provenance/rights over AI-generated assets.
