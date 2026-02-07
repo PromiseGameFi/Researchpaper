@@ -7,13 +7,8 @@ description: "A technical research paper on how blockchains can scale toward hun
 
 # Running Practical Worlds Onchain
 
-## Running Practical Worlds Onchain
 
-**A technical research paper on how blockchains can scale toward hundreds-of-millions of TPS, a numerical throughput model, and practical approaches for adding AI acceleration while preserving decentralization**
-
-***
-
-### Abstract
+## Abstract
 
 This paper builds a practical, technical argument , with a step-by-step numerical model; for how blockchains can be architected to reach _very_ high sustained throughput (100M+ TPS) in realistic deployments. We synthesize proven building blocks from the literature (DAG & pipelined consensus, BLS aggregation, parallel execution engines, erasure-coded data availability, compact block propagation, hardware acceleration) and show how they fit together. We then present a numerical model (explicit equations and arithmetic) for a 100M TPS design point, analyze bottlenecks (network, consensus, execution, data availability), and describe how AI acceleration can be introduced without centralizing ML control , using federated learning, secure aggregation, TEEs/MPC, and verifiable computation. Key prior works used for inspiration and grounding include Bullshark/Narwhal (DAG BFT), Block-STM (highly parallel execution), BLS aggregation, Celestia-style data availability/erasure coding, Solana-style propagation ideas, and secure aggregation for federated learning.
 
