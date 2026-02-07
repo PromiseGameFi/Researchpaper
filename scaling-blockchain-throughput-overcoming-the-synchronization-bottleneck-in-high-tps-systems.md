@@ -1,7 +1,3 @@
----
-title: "Scaling Blockchain Throughput - Overcoming the Synchronization Bottleneck in High-TPS Systems"
-description: "Blockchain systems aim to maximize throughput while preserving decentralization and security. However, achieving transactions-per-second (TPS) at scale remains one of the most difficult engineering challenges. This paper explores the primary technical bottlenecks preventing blockchains from reaching millions of TPS, focusing on network propagation, consensus efficiency, state execution, data availability, and the trade-offs between scalability, security, and decentralization. We present a structured analysis of each bottleneck, drawing from existing research in distributed systems, peer-to-peer networking, and cryptographic consensus."
----
 
 # Scaling Blockchain Throughput: Overcoming the Synchronization Bottleneck in High-TPS Systems
 

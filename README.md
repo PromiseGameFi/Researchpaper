@@ -1,7 +1,3 @@
----
-title: "Promise Emmanuel Oluwadare"
-description: "My career started off as a gameplay engineer, and I have worked at top studios like Naughty Dog and also led the development team at EOTH Game Studio."
----
 
 # Promise Emmanuel Oluwadare
 
