@@ -1,6 +1,6 @@
 ---
-title: Oracles for Trustworthy AI + Data Privacy with Blockchain: A Practical Architecture
-description: Modern AI systems increasingly drive game logic, rewards, markets, and user experiences. But three chronic issues limit safe deployment:
+title: "Oracles for Trustworthy AI + Data Privacy with Blockchain: A Practical Architecture"
+description: "Modern AI systems increasingly drive game logic, rewards, markets, and user experiences. But three chronic issues limit safe deployment:"
 ---
 
 # Oracles for Trustworthy AI + Data Privacy with Blockchain: A Practical Architecture
