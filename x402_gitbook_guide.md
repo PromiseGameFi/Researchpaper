@@ -1,7 +1,8 @@
 ---
 title: "x402\\_gitbook\\_guide"
-description: "In Simple Terms - X402 is like a \"pay-per-use\" vending machine for the internet. Instead of subscribing to services or creating accounts, you pay small amounts (micropayments) instantly to access what you need — like paying for a single API call, reading one article, or getting one piece of data."
+llm_description: "In Simple Terms - X402 is like a \"pay-per-use\" vending machine for the internet. Instead of subscribing to services or creating accounts, you pay small amounts (micropayments) instantly to access what you need — like paying for a single API call, reading one article, or getting one piece of data."
 ---
+
 
 
 

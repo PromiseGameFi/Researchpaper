@@ -1,7 +1,8 @@
 ---
 title: "The Science of Neural Image Synthesis"
-description: "Traditional 3D rendering relies on path-tracing algorithms that calculate light interactions through millions of samples, leading to significant time delays in production. This paper explores the transition to Neural Image Synthesis as a solution to this bottleneck. By analyzing systems such as Google DeepMind’s Genie 3 and Tencent’s Hunyuan, we demonstrate how AI can learn physical and visual laws directly from data. We investigate Neural Denoising, NeRFs, Gaussian Splatting, and World Models as a framework to move from logical simulation to statistical inference, reducing render times from hours to milliseconds."
+llm_description: "The process of 3D rendering has historically been defined by the \"Render Bottleneck.\" In software like Blender, a high-quality frame requires the hardware to calculate thousands of light rays as they interact with materials and geometry. This linear calculation process is slow and limits the iteration speed of 3D modellers."
 ---
+
 
 
 
@@ -14,7 +15,7 @@ description: "Traditional 3D rendering relies on path-tracing algorithms that ca
 
 ## 1. Introduction
 
-The process of 3D rendering has historically been defined by the "Render Bottleneck." In software like Blender, a high-quality frame requires the hardware to calculate thousands of light rays as they interact with materials and geometry. This linear calculation process is slow and limits the iteration speed of 3D modellers.
+
 
 Neural Image Synthesis represents a fundamental shift in this science. Instead of calculating physics, these models predict visual outcomes based on learned patterns. Systems like Genie 3 operate by using an auto-regressive transformer architecture to "imagine" the next world state. This paper details how these AI approaches differ from traditional engines and how they can be leveraged to create a high-speed rendering solution for the 3D industry.
 

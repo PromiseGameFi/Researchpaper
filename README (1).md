@@ -1,7 +1,8 @@
 ---
 title: "Securing AI-Driven Gaming with Federated Learning, NFT Ownership, and Oracles"
-description: "This study proposes a robust architecture integrating Federated Learning (FL) to adapt AI models without centralizing player data, Blockchain for secure ownership and provenance of AI-generated assets, and Oracles to inject external real-world context into gaming. We formalize federated optimization, detail protocols for encrypted model exchanges, NFT-based asset ownership, and state-aware oracle integration. Drawing from implementations like Game-o-Meta (FL + homomorphic encryption), blockchain-based FL (committee consensus), NFTs for AI assets, and oracle-enabled data injection, we demonstrate feasibility and highlight key challenges."
+llm_description: "This study proposes a robust architecture integrating Federated Learning (FL) to adapt AI models without centralizing player data, Blockchain for secure ownership and provenance of AI-generated assets, and Oracles to inject external real-world context into gaming. We formalize federated optimization, detail protocols for encrypted model exchanges, NFT-based asset ownership, and state-aware oracle integration. Drawing from implementations like Game-o-Meta (FL + homomorphic encryption), blockchain-based FL (committee consensus), NFTs for AI assets, and oracle-enabled data injection, we demonstrate feasibility and highlight key challenges."
 ---
+
 
 
 

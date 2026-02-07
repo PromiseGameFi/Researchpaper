@@ -1,7 +1,8 @@
 ---
 title: "Running Practical Worlds Onchain"
-description: "This paper builds a practical, technical argument , with a step-by-step numerical model; for how blockchains can be architected to reach _very_ high sustained throughput (100M+ TPS) in realistic deployments. We synthesize proven building blocks from the literature (DAG & pipelined consensus, BLS aggregation, parallel execution engines, erasure-coded data availability, compact block propagation, hardware acceleration) and show how they fit together. We then present a numerical model (explicit equations and arithmetic) for a 100M TPS design point, analyze bottlenecks (network, consensus, execution, data availability), and describe how AI acceleration can be introduced without centralizing ML control , using federated learning, secure aggregation, TEEs/MPC, and verifiable computation. Key prior works used for inspiration and grounding include Bullshark/Narwhal (DAG BFT), Block-STM (highly parallel execution), BLS aggregation, Celestia-style data availability/erasure coding, Solana-style propagation ideas, and secure aggregation for federated learning."
+llm_description: "A single monolithic L1 that naively tries to process every transaction on every full validator will always hit a hard ceiling. Practical ultra-high-TPS architectures therefore combine horizontal parallelism (sharding / many sequencers), fast deterministic local execution (compiled & parallel VMs), sublinear consensus and signature primitives (BLS, aggregation), and data availability systems with erasure coding and sampling. Our goal is to present - (a) a reproducible numerical model; (b) a practical architecture that composes known building blocks; and (c) strategies for adding decen­tralized AI acceleration."
 ---
+
 
 
 
